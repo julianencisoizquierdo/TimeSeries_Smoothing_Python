@@ -1,12 +1,12 @@
 # TimeSeries_Smoothing_Python
 
-# Time Series in Python - Common Use-Cases
+# Time Series in Python - Smoothing Techniques
 
 ## Content of the project
 This is another project where work with Time Series. This time, the goal is to apply different smoothing techniques (moving average, single exponential, double exponential, etc.).
 
 
-## Instructions
+## Files
 The files used for the analysis are `smooth_1.npy` and `smooth_2.npy`.
 
 
