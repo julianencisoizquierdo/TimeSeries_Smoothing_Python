@@ -7,7 +7,7 @@ This is another project where work with Time Series. This time, the goal is to a
 
 
 ## Instructions
-The file used for the analysis is `Sample - Superstore.xls`. This includes 4 years of daily Sales data by customer and category.
+The files used for the analysis are `smooth_1.npy` and `smooth_2.npy`.
 
 
 ## Usage
